@@ -31,5 +31,9 @@ whois
 pyautogui
 cv2
 numpy
-Image
-YouTube
+PIL
+pytube
+phonenumbers
+geocoder
+google.generativeai
+calendar
