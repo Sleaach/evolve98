@@ -1,5 +1,0 @@
-storage >> 150kb
-ram >> 300mb
-gpu >> low
-cpu >> %30
-os >> Windows MacOS Linux.. ALL
