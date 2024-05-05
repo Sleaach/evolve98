@@ -1,0 +1,5 @@
+storage >> 138kb
+ram >> 350mb
+gpu >> low
+cpu >> %35
+os >> Windows MacOS Linux.. ALL
